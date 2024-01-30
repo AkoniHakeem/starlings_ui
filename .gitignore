@@ -42,3 +42,6 @@ yarn-error.log*
 
 #env
 .env
+
+#npm rs
+.npmrc
